@@ -8,7 +8,7 @@
 
 This repository contains the code used to produce the main results in the paper *Transient Signal Propagation in Heterogeneous Networks under Various Inputs*. The code is organized **following the order of the main figures** in the article and does **not** cover all the appendix or supplementary materials.
 
-The central purpose of the code is to compare **theoretical estimations with simulated results**. Section II specifically examines the accuracy of the theoretical predictions. For readers interested in the practical linkage to brain networks, the folders for **Figs. 7 and 8** contain tutorial-style code that demonstrates how the framework can be applied to understand network structure in propagation for linear neural dynamics.
+The central purpose of the code is to compare **theoretical estimations with simulated results**. Section II specifically examines the accuracy of the theoretical predictions. For readers interested in the practical linkage to brain networks, the folders for **Figs. 8 and 9** contain tutorial-style code that demonstrates how the framework can be applied to understand network structure in propagation for linear neural dynamics.
 
 ---
 
